@@ -8,7 +8,7 @@ print("2. Subtraction")
 print("3. Multiplication")
 print("4. Division")
 
-choice = input("Choose an operation: ")
+choice = input("select an operation: ")
 
 if choice == "1":
     print("Result:", a + b)
